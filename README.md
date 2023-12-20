@@ -1,19 +1,19 @@
-# Projeto Calculadora - Desenvolvimento Web Completo
+# Projeto de Website em HTML e CSS
 
-Este projeto foi desenvolvido como parte do curso "Desenvolvimento Web Completo 2019 - 20 cursos + 20 projetos", no módulo de JavaScript, ministrado pelo professor Jorge Sant'ana na plataforma de cursos Udemy. Neste projeto, criamos uma calculadora utilizando as tecnologias HTML5, CSS3 e JavaScript.
+Este é um projeto de website criado exclusivamente com HTML e CSS, com o objetivo de aplicar conhecimentos sobre estrutura e design de sites adquiridos no curso "Desenvolvimento Web Completo 2019 - 20 cursos + 20 projetos", ministrado pelo professor Jorge Sant Ana na plataforma Udemy.
 
 ## Tecnologias Utilizadas
 
-- **HTML5:** Linguagem de marcação para estruturar conteúdo web.
-- **CSS3:** Folhas de estilo para estilização de páginas web.
-- **JavaScript:** Linguagem de programação para desenvolvimento de lógica interativa.
+- **HTML:** Linguagem de marcação para estruturar conteúdo web.
+- **CSS:** Folhas de estilo para estilização de páginas web.
 
 ## Informações do Projeto
 
 O projeto inclui:
 
-- **Desenvolvimento da Calculadora:** Utilizando HTML5, CSS3 e JavaScript para criar uma calculadora funcional.
-- **Interação do Usuário:** Implementação de uma interface amigável e interativa para cálculos matemáticos.
+- **Desenvolvimento do Website:** Utilizando HTML e CSS para criar um site estático.
+- **Aplicação de Boas Práticas de Design:** Colocando em prática conhecimentos adquiridos sobre o design de sites.
+- **Estruturação de Páginas com HTML:** Utilização adequada de tags HTML para estruturar o conteúdo.
 
 ## Instruções de Uso
 
@@ -23,6 +23,6 @@ O projeto inclui:
 
 ### Execução Local
 
-- Abra o arquivo `index.html` em seu navegador web para utilizar a calculadora.
+- Abra o arquivo `index.html` em seu navegador web para visualizar o website.
 
-Este projeto é uma excelente oportunidade para praticar conceitos de HTML, CSS e JavaScript na construção de uma aplicação interativa. Sinta-se à vontade para explorar, contribuir e buscar mais informações conforme necessário.
+Este projeto oferece uma oportunidade prática para consolidar conhecimentos em HTML e CSS na construção de um site estático. Sinta-se à vontade para explorar, contribuir e buscar mais informações conforme necessário.
