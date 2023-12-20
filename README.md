@@ -1,4 +1,4 @@
-# Projeto de Website em HTML e CSS
+# Projeto TecBlogWebsite em HTML e CSS
 
 Este é um projeto de website criado exclusivamente com HTML e CSS, com o objetivo de aplicar conhecimentos sobre estrutura e design de sites adquiridos no curso "Desenvolvimento Web Completo 2019 - 20 cursos + 20 projetos", ministrado pelo professor Jorge Sant Ana na plataforma Udemy.
 
